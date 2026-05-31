@@ -1,0 +1,78 @@
+Create a luxury chocolate-themed birthday website for a girl best friend. The overall aesthetic should feel warm, elegant, sweet, and magical, using rich chocolate brown, caramel, cream, blush pink, and soft gold colors. Decorate every section with delicate flowers, chocolate swirls, sparkles, ribbons, and cute hand-drawn doodles.
+
+Homepage
+
+A beautiful hero section featuring a large animated birthday cake in the center with glowing candles that can be virtually blown out. When clicked, confetti, flowers, and sparkles appear with a birthday message.
+
+Birthday Wishes Section
+
+A scrapbook-style area filled with chocolate-framed cards where heartfelt wishes can be written. Add floating petals and animated butterflies.
+
+Photo Memories Gallery
+
+A polaroid-style photo wall with hanging pictures attached by fairy lights and ribbons. Each photo should open with a cute memory caption when clicked.
+
+Dreams & Future Section
+
+A dreamy pathway made of flowers and stars leading toward a glowing horizon. Include cards where future dreams, goals, and hopes can be written.
+
+Secret Locks Section
+
+Several decorative chocolate-shaped locks. Each lock opens a hidden message, letter, memory, or surprise when clicked.
+
+Music Corner
+
+A cute chocolate jukebox with a QR code frame for favorite songs or playlists. Add music notes floating around the section.
+
+Drawings & Doodles Section
+
+A sketchbook-inspired area displaying cute drawings, inside jokes, hand-drawn hearts, stars, ice creams, flowers, cats, and personalized doodles.
+
+Reasons You’re Special
+
+A grid of beautifully designed chocolate truffle boxes. Each box opens to reveal a reason why she is important and appreciated.
+
+Memory Timeline
+
+A winding chocolate river showing memorable moments and milestones, decorated with flowers and mini photo frames.
+
+Birthday Cake Wish Wall
+
+A section where visitors can place virtual candles and write wishes. The wishes appear as glowing stars in the background.
+
+Treasure Hunt Area
+
+Hidden clickable elements scattered throughout the website. Finding them unlocks bonus notes, funny messages, memes, and surprises.
+
+Dua & Blessings Garden
+
+A peaceful flower garden filled with glowing lanterns where prayers, blessings, and good wishes are displayed on floating petals.
+
+Friendship Certificate
+
+An elegant certificate design celebrating friendship, decorated with chocolate borders, flowers, and gold accents.
+
+Final Surprise Section
+
+A giant heart-shaped chocolate gift box. When opened, it reveals a heartfelt letter, photo collage, fireworks, confetti, music, and a final birthday message.
+
+Extra Creative Features
+
+* Floating flower petals across the entire website
+* Fairy light animations
+* Falling chocolate hearts
+* Interactive memory cards
+* Cute sticker collection
+* Countdown timer to birthday
+* Hidden Easter eggs
+* Animated butterflies
+* Friendship badges and achievements
+* Digital guestbook
+* Chocolate fountain animation
+* Personalized nickname generator
+* Puzzle section revealing a secret message
+* Wish jar filled with positive notes
+* Starry night ending screen with a “Thank You For Being You” message
+*
+
+Important: Do not generate any birthday wishes, paragraphs, letters, memories, captions, messages, photos, or music links. Create beautiful empty sections, cards, frames, boxes, and placeholders only. I will personally add all text, photos, QR codes, memories, wishes, drawings, and content later. Focus entirely on the website design, layout, animations, and interactive features.
