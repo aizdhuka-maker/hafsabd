@@ -1,6 +1,6 @@
 kind = "web"
 previewPath = "/"
-title = "Birthday Page"
+title = "hafsabirthday"
 version = "1.0.0"
 id = "artifacts/birthday-page"
 router = "path"
